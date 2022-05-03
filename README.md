@@ -1,2 +1,4 @@
 # ClawBotProject
-Documentation of my contribution to the team design project for ENGR 120
+Documentation of my design project for ENGR 120
+
+Folders contain various documentation of different stages of the Robot design. 
